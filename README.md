@@ -1,1 +1,0 @@
-# AtliQ-Mart-Supply-Chain-Dashboard
