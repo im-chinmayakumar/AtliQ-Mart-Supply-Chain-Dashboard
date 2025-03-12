@@ -13,12 +13,8 @@ This project analyzes the **Supply Chain Performance** for AtliQ Mart using Powe
 ✅ **DAX (Data Analysis Expressions)**  
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Screenshot 2025-03-12 155624](https://github.com/user-attachments/assets/055dee22-0c88-4872-a75a-0dd208f4f344)
 
-## 📂 Files in This Repo
-- `AtliQ_Supply_Chain.pbix` - Power BI File
-- `Data_Cleaning.sql` - SQL Scripts for Data Cleaning
-- `Dashboard_Screenshot.png` - Final Dashboard
 
 ## 💡 Insights Gained
 - Identified trends in **on-time & in-full deliveries**
